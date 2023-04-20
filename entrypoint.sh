@@ -5,7 +5,7 @@ WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'43e42cec-fa39-416e-b8f1-83327a9e1938'}
 
 # 其他Paas保活
-PAAS1_URL=
+PAAS1_URL=https://sosocoll-somedspcov.b4a.run/
 PAAS2_URL=
 PAAS3_URL=
 PAAS4_URL=
